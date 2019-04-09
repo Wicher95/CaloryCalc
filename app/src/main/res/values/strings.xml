@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CaloryCalc</string>
+    <string name="app_name_long">Calory Calculator</string>
+    <string name="name">Imię</string>
+    <string name="your_name">Twoje imię:</string>
+    <string name="your_gender">Twoja płeć:</string>
+    <string name="gender">Płeć</string>
+    <string name="your_weight">Twoja waga (kg):</string>
+    <string name="weight">Waga (kg)</string>
+    <string name="age">Wiek</string>
+    <string name="your_age">Twój wiek:</string>
+    <string name="your_lifestyle">Twój tryb życia:</string>
+    <string name="begin">Zaczynamy!</string>
+    <string-array name="gender">
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>
+        <item>Helikopter Apache</item>
+    </string-array>
+    <string-array name="lifestyle">
+        <item>Siedzący, brak aktywności fizycznej</item>
+        <item>Siedzący, niewielka aktywność fizyczna</item>
+        <item>Praca/Wysiłek fizyczny</item>
+        <item>Duży wysiłek fizyczny</item>
+    </string-array>
+</resources>
