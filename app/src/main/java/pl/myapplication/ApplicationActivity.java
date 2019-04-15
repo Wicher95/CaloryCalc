@@ -16,7 +16,7 @@ public class ApplicationActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_application);
-        int userId = getIntent().getIntExtra("userId", 1);
+        int userId = (int) getIntent().getLongExtra("userId", 1);
         AsyncTask.execute(() -> {
             //TO-DO Change user Id to the currently selected user
             user = CaloryCalc.getDatabase().userDAO().getUserById(userId);

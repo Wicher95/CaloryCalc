@@ -12,7 +12,7 @@ import pl.myapplication.databse.entities.User;
 @Dao
 public interface UserDAO {
     @Insert
-    void addUser(User user);
+    long addUser(User user);
 
     @Update
     void updateUser(User User);

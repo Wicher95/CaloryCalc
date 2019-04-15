@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">CaloryCalc</string>
-    <string name="app_name_long">Calory Calculator</string>
+    <string name="app_name">FeedFit</string>
+    <string name="app_name_long">Feed Fit</string>
     <string name="name">Imię</string>
     <string name="your_name">Twoje imię:</string>
     <string name="your_gender">Twoja płeć:</string>

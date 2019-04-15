@@ -36,9 +36,9 @@ public class MainActivity extends AppCompatActivity {
             List<User> users = CaloryCalc.getDatabase().userDAO().retrieveUsers();
             if(users.size() > 0) {
                 //TO-DO Pass selected user id to next activity
-                Intent intent = new Intent(this, ApplicationActivity.class);
-                intent.putExtra("userId", users.get(0).getId());
-                startActivity(intent);
+                //Intent intent = new Intent(this, ApplicationActivity.class);
+                //intent.putExtra("userId", users.get(0).getId());
+                //startActivity(intent);
             }
         });
 
@@ -71,8 +71,10 @@ public class MainActivity extends AppCompatActivity {
         user.setGender(mGender.getSelectedItem().toString());
         user.setLifestyle(mLifestyle.getSelectedItem().toString());
         AsyncTask.execute(() -> {
-            CaloryCalc.getDatabase().userDAO().addUser(user);
-            startActivity(new Intent(mContext, ApplicationActivity.class));
+            long id = CaloryCalc.getDatabase().userDAO().addUser(user);
+            Intent intent = new Intent(this, ApplicationActivity.class);
+            intent.putExtra("userId", id);
+            startActivity(intent);
         });
     }
 }
