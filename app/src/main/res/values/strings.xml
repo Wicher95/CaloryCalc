@@ -22,4 +22,748 @@
         <item>Praca/Wysiłek fizyczny</item>
         <item>Duży wysiłek fizyczny</item>
     </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="product">Produkt:</string>
+    <string name="calories">Kalorie:</string>
+    <string name="cancel">Anuluj</string>
+    <string name="delete_product">Usuń produkt</string>
+    <string name="delete_product_message">Czy na pewno chcesz usunąć ten produkt z listy?</string>
+    <string name="yes">Tak</string>
+    <string name="add_product">Dodaj produkt</string>
+    <string name="product_name">Nazwa produktu</string>
+    <string name="calories_value">Wartość kaloryczna</string>
+    <string name="add">Dodaj</string>
+    <string name="product_missing">Produktu którego szukasz nie ma na liście? Dodaj go sam:</string>
+    <string name="your_height">Twój wzrost (cm)</string>
+    <string name="yout_height_cm">Twój wzrost (cm)</string>
+    <string-array name="products_array">
+        <item>;actimel, mleko jogurtowe;89;</item>
+        <item>;advokat, likier;275;</item>
+        <item>;agrest;61;</item>
+        <item>;ajerkoniak (40 ml);128;</item>
+        <item>;ananas;32;</item>
+        <item>;ananas z puszki, 1 plaster;38;</item>
+        <item>;anchois filet, 1 szt;15;</item>
+        <item>;antrykot wołowy;159;</item>
+        <item>;anyżówka grecka Ouzo, 1 kieliszek (2 cl);68;</item>
+        <item>;arak 38%, 1 kieliszek (2 cl);45;</item>
+        <item>;arbuz;12;</item>
+        <item>;awokado;118;</item>
+        <item>;awokado, 1 średnie (270 g);320;</item>
+        <item>;babeczka śmietankowa, 1 sztuka (40 g);135;</item>
+        <item>;babka piaskowa;432;</item>
+        <item>;babka polska;368;</item>
+        <item>;bagietka francuska;214;</item>
+        <item>;bajaderka, 1 sztuka (80 g);317;</item>
+        <item>;bakłażan;24;</item>
+        <item>;bakłażan smażony na oleju;300;</item>
+        <item>;bambus konserwowy;39;</item>
+        <item>;banan, 1 sztuka (200 g);136;</item>
+        <item>;baranina bez kości, średnio;234;</item>
+        <item>;baranina, łopatka;241;</item>
+        <item>;baranina, udziec;195;</item>
+        <item>;barszcz czerwony zabielany;35;</item>
+        <item>;barszcz z uszkami;350;</item>
+        <item>;baton Bounty;145;</item>
+        <item>;baton Duplo;100;</item>
+        <item>;baton Kitekat;85;</item>
+        <item>;baton Mars;275;</item>
+        <item>;baton Milky Way;135;</item>
+        <item>;baton Snickers;310;</item>
+        <item>;baton Twix;487;</item>
+        <item>;bażant;94;</item>
+        <item>;beza, 1 szt;110;</item>
+        <item>;białko z 1 jaja;18;</item>
+        <item>;bigos domowy;93;</item>
+        <item>;bigos popularny;139;</item>
+        <item>;bitki wieprzowe;197;</item>
+        <item>;bitki wołowe;104;</item>
+        <item>;bliny ziemniaczane;253;</item>
+        <item>;boczek faszerowany;502;</item>
+        <item>;boczek wędzony, solony;477;</item>
+        <item>;boczek wieprzowy;517;</item>
+        <item>;boćwina;28;</item>
+        <item>;boeuf Strogonow;222;</item>
+        <item>;borówki;61;</item>
+        <item>;bób;36;</item>
+        <item>;brokuły;27;</item>
+        <item>;brukselka;44;</item>
+        <item>;brukselka z wody z bułką tartą i masłem;129;</item>
+        <item>;bryndza, ser owczy;250;</item>
+        <item>;brzoskwinia;53;</item>
+        <item>;brzoskwinie suszone;295;</item>
+        <item>;bułka grahamka, 1 szt (50 g);106;</item>
+        <item>;bułka kajzerka, 1 szt (50 g);120;</item>
+        <item>;bułka maślana, 1 szt (50 g);124;</item>
+        <item>;bułka pszenna, 1 szt (50 g);125;</item>
+        <item>;bułka tarta;363;</item>
+        <item>;buraki;46;</item>
+        <item>;buraki ćwikłowe;49;</item>
+        <item>;buraki zasmażane;90;</item>
+        <item>;cappuccino z mlekiem, 1 filiżanka;60;</item>
+        <item>;cebula;28;</item>
+        <item>;chałka;274;</item>
+        <item>;chałwa;531;</item>
+        <item>;cheesburger, frytki, szarlotka, duża cola, 1 zestaw;1200;</item>
+        <item>;cheesburger, 1 porcja;308;</item>
+        <item>;chipsy ziemniaczane;552;</item>
+        <item>;chipsy ziemniaczane, 1 szt;10;</item>
+        <item>;chleb graham, 1 kromka (50 g);96;</item>
+        <item>;chleb lecytynowy, 1 kromka (50 g);120;</item>
+        <item>;chleb pita;333;</item>
+        <item>;chleb pszenny, 1 kromka (50 g);108;</item>
+        <item>;chleb pumpernikiel, 1 kromka (40 g);96;</item>
+        <item>;chleb razowy na miodzie, 1 kromka (50 g);95;</item>
+        <item>;chleb razowy, 1 kromka (50 g);98;</item>
+        <item>;chleb sitkowy, 1 kromka (50 g);98;</item>
+        <item>;chleb słodowy, 1 kromka (50 g);102;</item>
+        <item>;chleb z otrębami, 1 kromka (50 g);103;</item>
+        <item>;chleb zwykły, 1 kromka (50 g);102;</item>
+        <item>;chleb żytni, 1 kromka (50 g);110;</item>
+        <item>;chrzan;68;</item>
+        <item>;ciastka delicje szampańskie;400;</item>
+        <item>;ciastka markizy;358;</item>
+        <item>;ciastko karpatka;442;</item>
+        <item>;ciastka tortowe z galaretką;311;</item>
+        <item>;ciasto drożdżowe ze śliwkami;178;</item>
+        <item>;ciasto kokosowe;406;</item>
+        <item>;ciasto kruche ze śliwkami;218;</item>
+        <item>;cielęca pieczeń duszona;240;</item>
+        <item>;cielęca wątróbka;124;</item>
+        <item>;cielęce klopsiki mielone;249;</item>
+        <item>;cielęce nerki surowe;118;</item>
+        <item>;cielęce serca;119;</item>
+        <item>;cielęcina bez kości;108;</item>
+        <item>;cielęcina w potrawce;112;</item>
+        <item>;cielęcina, nerkówka;127;</item>
+        <item>;cielęcina, łopatka;129;</item>
+        <item>;cielęcina, udziec;92;</item>
+        <item>;cielęcy kotlet panierowany;426;</item>
+        <item>;cielęcy mózg;99;</item>
+        <item>;cielęcy ozór surowy;96;</item>
+        <item>;Coca Cola light, 1 puszka (200 ml);1;</item>
+        <item>;Coca Cola, 1 puszka (200 ml);82;</item>
+        <item>;croissant, 1 sztuka (60 g);282;</item>
+        <item>;crunchips;51;</item>
+        <item>;cukier biały;400;</item>
+        <item>;cukier biały, 1 łyżeczka (10 g);40;</item>
+        <item>;cukier waniliowy, 1 paczka;32;</item>
+        <item>;cukierki MMs;490;</item>
+        <item>;cukierki;390;</item>
+        <item>;cukinia;16;</item>
+        <item>;cykoria (75 g);11;</item>
+        <item>;cynamon;104;</item>
+        <item>;cytryna, 1 średnia (150 g);36;</item>
+        <item>;czarne jagody;61;</item>
+        <item>;czekolada, 1 kostka;22;</item>
+        <item>;czekolada do picia w proszku, 1 filiżanka;140;</item>
+        <item>;czekolada gorzka, 1 tabliczka;520;</item>
+        <item>;czekolada kremowa, 1 tabliczka;560;</item>
+        <item>;czekolada Milka mleczna, 1 tabliczka;539;</item>
+        <item>;czekolada Milka z jogurtem, 1 tabliczka;585;</item>
+        <item>;czekolada Milka z truskawkami, 1 tabliczka;578;</item>
+        <item>;czekolada Milka ze wiśniami, 1 tabliczka;577;</item>
+        <item>;czekolada mleczna, 1 tabliczka;560;</item>
+        <item>;czekoladka Ferrero Rocher, 1 szt;75;</item>
+        <item>;czekoladka Mon Cheri, 1 szt;50;</item>
+        <item>;czekoladowa posypka do deserów;421;</item>
+        <item>;czekoladowy mus;219;</item>
+        <item>;czereśnie;48;</item>
+        <item>;czosnek, 1 ząbek (15 g);3;</item>
+        <item>;ćwikła;49;</item>
+        <item>;daktyle suszone;272;</item>
+        <item>;dorsz po grecku, 1 porcja;230;</item>
+        <item>;dorsz w sosie pomidorowym, konserwa;102;</item>
+        <item>;dorsz wędzony;52;</item>
+        <item>;dorsz, filety smażone, panierowane;278;</item>
+        <item>;dorsz, kotlet mielony;260;</item>
+        <item>;draże arachidowe Wedel;547;</item>
+        <item>;drobiowa wątróbka;134;</item>
+        <item>;drobiowe serca;119;</item>
+        <item>;drops owocowy, 1 szt;18;</item>
+        <item>;drożdże prasowane;130;</item>
+        <item>;drożdże suszone, 1 paczka;26;</item>
+        <item>;drożdżówka z makiem;345;</item>
+        <item>;drożdżówka z marmoladą;323;</item>
+        <item>;dynia;23;</item>
+        <item>;dzik, szynka;93;</item>
+        <item>;dżem śliwkowy, niskosłodzony, 1 łyżka (20 g);31;</item>
+        <item>;dżem truskawkowy, wysokosłodzony, 1 łyżka (20 g);50;</item>
+        <item>;dżem z czarnej porzeczki, niskosłodzony, 1 łyżka (20 g);32;</item>
+        <item>;dżemy niskosłodzone, 1 łyżka (20 g);33;</item>
+        <item>;dżemy wysokosłodzone, 1 łyżka (20 g);50;</item>
+        <item>;eklerka z kremem (40 g);120;</item>
+        <item>;endywia (sałata);17;</item>
+        <item>;Fanta (200 ml);82;</item>
+        <item>;fasola biała, sucha;346;</item>
+        <item>;fasola czarna, sucha;345;</item>
+        <item>;fasola kolorowa, sucha;343;</item>
+        <item>;fasola mungo;329;</item>
+        <item>;fasolka cięta w zalewie, konserwa;20;</item>
+        <item>;fasolka po bretońsku;154;</item>
+        <item>;fasolka szparagowa;36;</item>
+        <item>;fasolka szparagowa z bułką tartą;115;</item>
+        <item>;faworki;476;</item>
+        <item>;feta ser grecki;250;</item>
+        <item>;figi suszone;300;</item>
+        <item>;figi świeże (65 g);47;</item>
+        <item>;fish and chips (ryba i frytki), 1 porcja;651;</item>
+        <item>;flaki surowe;84;</item>
+        <item>;flaki;320;</item>
+        <item>;flądra wędzona;53;</item>
+        <item>;frytki ziemniaczane podsmażane mrożone;226;</item>
+        <item>;frytki;311;</item>
+        <item>;galaretka owocowa w proszku;316;</item>
+        <item>;galaretka z nóżek wieprzowych;206;</item>
+        <item>;gęś, tuszka;140;</item>
+        <item>;gin z tonikiem, 1 kieliszek;170;</item>
+        <item>;gin, (20 cl);60;</item>
+        <item>;gołąbki w sosie pomidorowym;117;</item>
+        <item>;granat (275 g);104;</item>
+        <item>;grejfrut (250 g);70;</item>
+        <item>;groch, suchy;354;</item>
+        <item>;groszek w zalewie, konserwa;79;</item>
+        <item>;groszek z marchewką;73;</item>
+        <item>;groszek zielony (strąki);43;</item>
+        <item>;groszek zielony z masłem;99;</item>
+        <item>;gruszka (120 g);56;</item>
+        <item>;gruszki suszone;328;</item>
+        <item>;gruszki w syropie w puszce;50;</item>
+        <item>;grzyby suszone;350;</item>
+        <item>;gulasz sojowy z jarzynami;75;</item>
+        <item>;gulasz wieprzowo-wołowy;197;</item>
+        <item>;gulasz wołowy;149;</item>
+        <item>;guma do żucia, 1 listek;7;</item>
+        <item>;hamburger Bic Mac;510;</item>
+        <item>;hamburger Royal;527;</item>
+        <item>;hamburger rybny;423;</item>
+        <item>;hamburger z serem;308;</item>
+        <item>;hamburger;255;</item>
+        <item>;herbata czarna bez cukru;0;</item>
+        <item>;herbata mrożona Lipton Ice Tea;33;</item>
+        <item>;herbatnik, 1 szt;45;</item>
+        <item>;herbatniki w czekoladzie;462;</item>
+        <item>;homar;91;</item>
+        <item>;indyk, białe mięso ze skórą;159;</item>
+        <item>;indyk, filet;109;</item>
+        <item>;indyk, tuszka;56;</item>
+        <item>;irysy;420;</item>
+        <item>;jabłecznik (40 g);110;</item>
+        <item>;jabłka suszone;341;</item>
+        <item>;jabłko świeże;36;</item>
+        <item>;jaja przepiórcze;149;</item>
+        <item>;jaja sadzone;180;</item>
+        <item>;jajecznica na słoninie;130;</item>
+        <item>;jajo, 1 szt;80;</item>
+        <item>;jajo, żółtko;64;</item>
+        <item>;jarmuż;49;</item>
+        <item>;jarzynowa zupa;33;</item>
+        <item>;jarzynowa zupa zabielana;48;</item>
+        <item>;jeżyny;63;</item>
+        <item>;jogurt 2% tłuszczu, 1 szklanka (250 ml);155;</item>
+        <item>;jogurt 2,5% tłuszczu , 1 szklanka (250 ml);175;</item>
+        <item>;jogurt Danone 0% tłuszczu z owocami, 1 szklanka (250 ml) ;48;</item>
+        <item>;jogurt naturalny 2,5% tłuszczu, 1 szklanka (250 ml);150;</item>
+        <item>;jogurt owocowy 1,5% tłuszczu, 1 szklanka (250 ml);235;</item>
+        <item>;jogurt z kawałkami owoców Danone;103;</item>
+        <item>;kabaczek;20;</item>
+        <item>;kaczka, mięso z piersi;294;</item>
+        <item>;kaczka, mięso z udka;331;</item>
+        <item>;kaczka, tuszka;198;</item>
+        <item>;kakao na mleku (250 ml);179;</item>
+        <item>;kakao, 1 łyżeczka;21;</item>
+        <item>;kalafior;16;</item>
+        <item>;kalafior z wody z bułką tartą;70;</item>
+        <item>;kalafior (500 g);80;</item>
+        <item>;kalarepa;24;</item>
+        <item>;kapary, łyżka stołowa;3;</item>
+        <item>;kapusta biała;28;</item>
+        <item>;kapusta biała zasmażana;77;</item>
+        <item>;kapusta biała surówka;76;</item>
+        <item>;kapusta czerwona;36;</item>
+        <item>;kapusta czerwona sałatka;99;</item>
+        <item>;kapusta kiszona;16;</item>
+        <item>;kapusta kwaszona surówka;77;</item>
+        <item>;kapusta włoska;32;</item>
+        <item>;kapuśniak z kapusty kwaszonej;50;</item>
+        <item>;kapuśniak ze słodkiej kapusty;68;</item>
+        <item>;karczochy (200 g);122;</item>
+        <item>;karmelki light;185;</item>
+        <item>;karmelki tradycyjne;392;</item>
+        <item>;karp w galarecie;127;</item>
+        <item>;karp z wody;100;</item>
+        <item>;karp, części jadalne;102;</item>
+        <item>;kasza gryczana na sypko;141;</item>
+        <item>;kasza gryczana sucha;359;</item>
+        <item>;kasza jęczmienna perłowa sucha;367;</item>
+        <item>;kasza jęczmienna pęczak sucha;346;</item>
+        <item>;kasza manna sucha;353;</item>
+        <item>;kasza perłowa na sypko;126;</item>
+        <item>;kasza z pszenicy kus kus sucha;360;</item>
+        <item>;kaszanka;250;</item>
+        <item>;kasztany świeże;194;</item>
+        <item>;kawa bez cukru;2;</item>
+        <item>;kawior prawdziwy, 1 łyżeczka;13;</item>
+        <item>;kefir 1,5% tłuszczu, 1 szklanka (250 ml);112;</item>
+        <item>;kefir 2% tłuszczu, 1 szklanka (250 ml);115;</item>
+        <item>;keks owocowy;378;</item>
+        <item>;ketchup pomidorowy Heinz;101;</item>
+        <item>;ketchup pomidorowy, 1 łyżka;20;</item>
+        <item>;kiełbasa husarska;462;</item>
+        <item>;kiełbasa kabanos;319;</item>
+        <item>;kiełbasa krakowska;145;</item>
+        <item>;kiełbasa krakowska parzona;143;</item>
+        <item>;kiełbasa krakowska sucha;352;</item>
+        <item>;kiełbasa metka;347;</item>
+        <item>;kiełbasa myśliwska;395;</item>
+        <item>;kiełbasa parówkowa;310;</item>
+        <item>;kiełbasa pasztetowa;348;</item>
+        <item>;kiełbasa salami;420;</item>
+        <item>;kiełbasa szynkowa;154;</item>
+        <item>;kiełbasa zwyczajna;210;</item>
+        <item>;kiełki lucerny;30;</item>
+        <item>;kiełki sojowe;29;</item>
+        <item>;kiełki sojowe z puszki;35;</item>
+        <item>;kiwi (80 g);40;</item>
+        <item>;klopsiki cielęce mielone;250;</item>
+        <item>;kluski kładzione;168;</item>
+        <item>;kluski lane;96;</item>
+        <item>;knedle ze śliwkami;170;</item>
+        <item>;kompot jabłkowy, 1 szklanka (250 ml);200;</item>
+        <item>;kompot truskawkowy, 1 szklanka (250 ml);200;</item>
+        <item>;koncentrat barszczu czerwonego, 1 łyżka;15;</item>
+        <item>;koncentrat pomidorowy 30%;110;</item>
+        <item>;koniak (4 cl);112;</item>
+        <item>;konina bez kości;108;</item>
+        <item>;konserwa luncheon meat;216;</item>
+        <item>;konserwa turystyczna;217;</item>
+        <item>;koperek (35 g);18;</item>
+        <item>;kopytka z masłem;152;</item>
+        <item>;kotlet z drobiu panierowany;380;</item>
+        <item>;kotlet schabowy;237;</item>
+        <item>;kotlety mielone, wieprzowo-wołowe;287;</item>
+        <item>;kraby;84;</item>
+        <item>;krakers, 1 szt;10;</item>
+        <item>;krewetki;106;</item>
+        <item>;królik mięso bez kości;128;</item>
+        <item>;krówki, cukierki;419;</item>
+        <item>;krupnik z kaszy jęczmiennej;44;</item>
+        <item>;kukurydza w puszce;23;</item>
+        <item>;kukurydza, 1 kolba (150 g);220;</item>
+        <item>;kukurydza, nasiona świeże;86;</item>
+        <item>;kukurydziane chrupki;348;</item>
+        <item>;kura w galarecie;194;</item>
+        <item>;kura, tuszka;142;</item>
+        <item>;kurczak gotowany w jarzynach;108;</item>
+        <item>;kurczak pieczony;182;</item>
+        <item>;kurczak, 1 skrzydełko surowe (90 g);109;</item>
+        <item>;kurczak, 1 udko surowe (120 g);194;</item>
+        <item>;kurczak, białe mięso bez skóry;114;</item>
+        <item>;kuropatwa;53;</item>
+        <item>;kutia;700;</item>
+        <item>;leszcz, części jadalne;102;</item>
+        <item>;likier curacao (2 cl);80;</item>
+        <item>;lin części jadalne;74;</item>
+        <item>;lody bakaliowe;216;</item>
+        <item>;lody Bounty, 1 szt;173;</item>
+        <item>;lody kakaowe;166;</item>
+        <item>;lody Magnum białe, 1 szt;290;</item>
+        <item>;lody Magnum w czekoladzie, 1 szt;304;</item>
+        <item>;lody Mars, 1 szt;172;</item>
+        <item>;lody Milky Way, 1 szt;151;</item>
+        <item>;lody mleczne;110;</item>
+        <item>;lody mleczne, 1 kulka;28;</item>
+        <item>;lody mleczno-owocowe, 1 kulka;29;</item>
+        <item>;lody Snickers, 1 szt;215;</item>
+        <item>;lody śmietankowe, 1 kulka;39;</item>
+        <item>;lukier ciemny;613;</item>
+        <item>;lukier jasny;628;</item>
+        <item>;łosoś części jadalne;202;</item>
+        <item>;łosoś wędzony;180;</item>
+        <item>;majonez, 1 czubata łyżka;155;</item>
+        <item>;mak;545;</item>
+        <item>;makaron gotowany (dwujajeczny);105;</item>
+        <item>;makowiec;348;</item>
+        <item>;makrela w sosie własnym;167;</item>
+        <item>;makrela wędzona;155;</item>
+        <item>;makrela części jadalne;180;</item>
+        <item>;Malaga (5 cl);80;</item>
+        <item>;maliny;65;</item>
+        <item>;małże;88;</item>
+        <item>;mandarynki w syropie;52;</item>
+        <item>;mandarynki we własnym soku;32;</item>
+        <item>;mandarynki (45 g);13;</item>
+        <item>;mango w syropie;77;</item>
+        <item>;mango (300 g);132;</item>
+        <item>;marchew;24;</item>
+        <item>;margaryna Bona;450;</item>
+        <item>;margaryna Kama;450;</item>
+        <item>;margaryna Kasia;720;</item>
+        <item>;margaryna Medium;540;</item>
+        <item>;margaryna Maryna;720;</item>
+        <item>;margaryna Mleczna;720;</item>
+        <item>;margaryna Palma;720;</item>
+        <item>;margaryna Rama;630;</item>
+        <item>;margaryna Sawa;720;</item>
+        <item>;margaryna Słoneczna;720;</item>
+        <item>;margaryna Śniadaniowa;540;</item>
+        <item>;margaryna Udana;720;</item>
+        <item>;margaryna Zwykła;720;</item>
+        <item>;marmolada, 1 łyżka;23;</item>
+        <item>;Marsala (5 cl);55;</item>
+        <item>;Martini wytrawne (5 cl);60;</item>
+        <item>;masło Finea Mix;720;</item>
+        <item>;masło Masmix;540;</item>
+        <item>;masło orzechowe;573;</item>
+        <item>;masło roślinne MR;747;</item>
+        <item>;masło roślinne Nova;450;</item>
+        <item>;maślak;29;</item>
+        <item>;maślanka 1,5% tłuszczu, 1 szklanka (250 ml);70;</item>
+        <item>;mąka gryczana;333;</item>
+        <item>;mąka pszenna krupczatka;345;</item>
+        <item>;mąka pszenna poznańska;345;</item>
+        <item>;mąka pszenna wrocławska;341;</item>
+        <item>;mąka pszenna, 1 łyżka;35;</item>
+        <item>;mąka ryżowa;383;</item>
+        <item>;mąka sojowa;421;</item>
+        <item>;mąka ziemniaczana;340;</item>
+        <item>;melon;16;</item>
+        <item>;mielonka wieprzowa, konserwa;237;</item>
+        <item>;migdały słodkie;332;</item>
+        <item>;mintaj części jadalne;75;</item>
+        <item>;miód pszczeli;320;</item>
+        <item>;miód pszczeli, 1 łyżeczka;48;</item>
+        <item>;miód sztuczny;320;</item>
+        <item>;miśki żelatynowe;390;</item>
+        <item>;mizeria ze śmietaną;35;</item>
+        <item>;mleko 0,5% tłuszczu, 1 szklanka (250 ml);88;</item>
+        <item>;mleko 2% tłuszczu, 1 szklanka (250 ml);115;</item>
+        <item>;mleko 3,2% tłuszczu, 1 szklanka (250 ml);145;</item>
+        <item>;mleko kozie, 1 szklanka (250 ml);180;</item>
+        <item>;mleko sojowe, 1 szklanka (250 ml);82;</item>
+        <item>;mleko zagęszczone niesłodzone, 1 łyżka;34;</item>
+        <item>;mleko zagęszczone słodzone, 1 łyżka;81;</item>
+        <item>;mleko zsiadłe, 1 szklanka (250 ml) ;115;</item>
+        <item>;morele świeże (40 g);19;</item>
+        <item>;morele w syropie w puszce;34;</item>
+        <item>;morszczuk części jadalne;70;</item>
+        <item>;mortadela;187;</item>
+        <item>;musli z owocami suszonymi Dr. Oetker z mlekiem (60 ml);175;</item>
+        <item>;musli z owocami tropikalnymi Nestle Pacific;370;</item>
+        <item>;musztarda, 1 łyżka;15;</item>
+        <item>;naleśniki z kapustą;156;</item>
+        <item>;naleśniki z serem;240;</item>
+        <item>;napoleonki (60 g);194;</item>
+        <item>;nektarynka (150 g);67;</item>
+        <item>;Nutella;580;</item>
+        <item>;ogórek;8;</item>
+        <item>;ogórek kiszony;12;</item>
+        <item>;ogórek konserwowy;16;</item>
+        <item>;okoń, części jadalne;83;</item>
+        <item>;oleje roślinne;900;</item>
+        <item>;oliwa z oliwek;900;</item>
+        <item>;oliwki czarne, marynowane;350;</item>
+        <item>;oliwki zielone, marynowane;140;</item>
+        <item>;omlet bez dodatków, 1 szt;380;</item>
+        <item>;omlet z dodatkami, 1 szt;750;</item>
+        <item>;orzechy nerkowce, obrane;560;</item>
+        <item>;orzechy laskowe, obrane;634;</item>
+        <item>;orzechy pecan, obrane;687;</item>
+        <item>;orzechy pistacjowe, obrane;577;</item>
+        <item>;orzechy w czekoladzie Wedel;584;</item>
+        <item>;orzechy włoskie, obrane;650;</item>
+        <item>;orzechy ziemne, obrane;582;</item>
+        <item>;ostrygi;69;</item>
+        <item>;otręby pszenne;189;</item>
+        <item>;paluszki słone;385;</item>
+        <item>;papaja (200 g);80;</item>
+        <item>;papryka konserwowa;35;</item>
+        <item>;papryka nadziewana mięsem i ryżem;172;</item>
+        <item>;papryka (80 g);19;</item>
+        <item>;parówki, 1 szt;132;</item>
+        <item>;pączek, 1 szt;200;</item>
+        <item>;pernod (2 cl);68;</item>
+        <item>;pestki dyni;553;</item>
+        <item>;pestki słonecznika;560;</item>
+        <item>;pieczarki;28;</item>
+        <item>;pieczeń rzymska;204;</item>
+        <item>;pieczywo chrupkie z sezamem 1 kromka;50;</item>
+        <item>;pieczywo chrupkie 1 kromka;37;</item>
+        <item>;pierniki;366;</item>
+        <item>;pierniki w czekoladzie;410;</item>
+        <item>;pierogi leniwe;217;</item>
+        <item>;pierogi leniwe mrożone;162;</item>
+        <item>;pierogi mięsne mrożone;268;</item>
+        <item>;pierogi ruskie;167;</item>
+        <item>;pierogi ruskie mrożone;218;</item>
+        <item>;pierogi z kapustą mrożone;210;</item>
+        <item>;pierogi z kapustą i grzybami;250;</item>
+        <item>;pierogi z mięsem gotowane ze skwarkami i cebulą;207;</item>
+        <item>;pierogi z serem;238;</item>
+        <item>;pierogi z truskawkami;247;</item>
+        <item>;pietruszka korzeń;52;</item>
+        <item>;pietruszka, natka (35 g);21;</item>
+        <item>;pigwa;35;</item>
+        <item>;pikling wędzony;137;</item>
+        <item>;piwo Guiness (0,33 l);216;</item>
+        <item>;piwo jasne (0,5 l);230;</item>
+        <item>;piwo Pilsner (0,33 l);144;</item>
+        <item>;piwo słodowe (0,33 l);152;</item>
+        <item>;placek drożdżowy z kruszonką;425;</item>
+        <item>;płatki kukurydziane, 1 łyżka;12;</item>
+        <item>;płatki owsiane, 1 łyżka;23;</item>
+        <item>;polędwica wędzona, 1 plasterek (20 g);28;</item>
+        <item>;pomarańcza (150 g);54;</item>
+        <item>;pomidor (80 g);19;</item>
+        <item>;pomidory w puszce;16;</item>
+        <item>;popcorn;150;</item>
+        <item>;pory;24;</item>
+        <item>;porzeczki białe;56;</item>
+        <item>;porzeczki czarne;81;</item>
+        <item>;porzeczki czerwone;56;</item>
+        <item>;powidła śliwkowe, 1 łyżeczka;22;</item>
+        <item>;poziomki;36;</item>
+        <item>;przepiórka, mięso bez kości;193;</item>
+        <item>;pstrąg części jadalne;96;</item>
+        <item>;ptasie mleczko;473;</item>
+        <item>;ptysie ze śmietaną, 1 szt;100;</item>
+        <item>;pyzy z mięsem mrożone;200;</item>
+        <item>;pyzy ziemniaczane mrożone;141;</item>
+        <item>;rabarbar;14;</item>
+        <item>;renklody (50 g);34;</item>
+        <item>;risotto z mięsem i jarzynami;190;</item>
+        <item>;rodzynki;298;</item>
+        <item>;rogal croissant, 1 szt;282;</item>
+        <item>;rum (2 cl);75;</item>
+        <item>;ryż biały;353;</item>
+        <item>;ryż błyskawiczny (płatki);361;</item>
+        <item>;ryż ciemny;359;</item>
+        <item>;ryż gotowany na sypko;137;</item>
+        <item>;ryż preparowany;377;</item>
+        <item>;rzepa;24;</item>
+        <item>;rzodkiewka (15 g);1;</item>
+        <item>;salami;420;</item>
+        <item>;salami niemieckie;335;</item>
+        <item>;salceson brunszwicki;442;</item>
+        <item>;salceson czarny;305;</item>
+        <item>;salceson ozorkowy;389;</item>
+        <item>;sałata endywia;17;</item>
+        <item>;sałata głowiasta;12;</item>
+        <item>;sałata lodowa;15;</item>
+        <item>;sałata z tuńczykiem;272;</item>
+        <item>;sałata zielona z olejem słonecznikowym;118;</item>
+        <item>;sałata zielona ze śmietaną;45;</item>
+        <item>;sałatka śledziowa;205;</item>
+        <item>;sałatka jarzynowa;204;</item>
+        <item>;sałatka z białej kapusty;186;</item>
+        <item>;sałatka z czerwonej kapusty;99;</item>
+        <item>;sałatka z krabami;276;</item>
+        <item>;sałatka ziemniaczana;218;</item>
+        <item>;sandacz, części jadalne;80;</item>
+        <item>;Sangria (0,2 cl);160;</item>
+        <item>;Sangrita (5 cl);20;</item>
+        <item>;sarnina;55;</item>
+        <item>;schab pieczony;243;</item>
+        <item>;schab wędzony;98;</item>
+        <item>;seler;36;</item>
+        <item>;ser biały chudy;100;</item>
+        <item>;ser biały tłusty;165;</item>
+        <item>;ser brie pełnotłusty;264;</item>
+        <item>;ser bryndza;285;</item>
+        <item>;ser camembert;264;</item>
+        <item>;ser cheddar pełnotłusty;385;</item>
+        <item>;ser edamski pełnotłusty;328;</item>
+        <item>;ser edamski tłusty;288;</item>
+        <item>;ser ementaler pełnotłusty;376;</item>
+        <item>;ser ementaler tłusty;310;</item>
+        <item>;ser gorgonzola pleśniowy;376;</item>
+        <item>;ser gouda pełnotłusty;324;</item>
+        <item>;ser gouda tłusty;284;</item>
+        <item>;ser grecki feta;250;</item>
+        <item>;ser mascarpone;480;</item>
+        <item>;ser mozzarella pełnotłusty;286;</item>
+        <item>;ser mozzarella tłusty;257;</item>
+        <item>;ser myśliwski pełnotłusty;294;</item>
+        <item>;ser parmezan;396;</item>
+        <item>;ser rokpol pleśniowy;353;</item>
+        <item>;ser roquefort pleśniowy;376;</item>
+        <item>;ser salami tłusty;300;</item>
+        <item>;ser sojowy tofu;72;</item>
+        <item>;ser topiony, 1 rożek;65;</item>
+        <item>;ser tostowy w plasterkach;340;</item>
+        <item>;ser trapisów pełnotłusty;311;</item>
+        <item>;ser trapisów tłusty;280;</item>
+        <item>;ser tylżycki pełnotłusty;320;</item>
+        <item>;ser tylżycki tłusty;301;</item>
+        <item>;serdelki drobiwe;227;</item>
+        <item>;sernik;273;</item>
+        <item>;serek homogenizowany;110;</item>
+        <item>;serek brzoskwiniowy Danone;148;</item>
+        <item>;sernik wiedeński;480;</item>
+        <item>;serwatka, 1 szklanka (250 ml);60;</item>
+        <item>;sezam;582;</item>
+        <item>;sherry wytrawne (5 cl);60;</item>
+        <item>;skórka pomarańczowa, cytrynowa;79;</item>
+        <item>;słonina świeża;764;</item>
+        <item>;smalec;900;</item>
+        <item>;soczewica gotowana;106;</item>
+        <item>;soczewica sucha;354;</item>
+        <item>;soja gotowana;130;</item>
+        <item>;soja sucha;442;</item>
+        <item>;sok pomidorowy (250 ml);63;</item>
+        <item>;soki owocowe nisko i średniosłodzone (250 ml);340;</item>
+        <item>;sos sojowy, 1 łyżka;10;</item>
+        <item>;sos tatarski, 1 łyżka;33;</item>
+        <item>;sos winegret, 1 łyżka;2;</item>
+        <item>;sól kuchenna;0;</item>
+        <item>;strudel jabłkowy (200 g);320;</item>
+        <item>;surówka z cykorii i jabłek z olejem;168;</item>
+        <item>;surówka z pomidorów;26;</item>
+        <item>;surówka z porów i jabłek z olejem;156;</item>
+        <item>;surówka z rzodkiewki ze śmietaną;94;</item>
+        <item>;surówka z selera;80;</item>
+        <item>;szampan słodki, 1 kieliszek (0,1 l);85;</item>
+        <item>;szampan wytrawny, 1 kieliszek (0,1 l);75;</item>
+        <item>;szczaw;33;</item>
+        <item>;szczupak, części jadalne;78;</item>
+        <item>;szczypiorek (30 g);12;</item>
+        <item>;szparagi;12;</item>
+        <item>;szpik;822;</item>
+        <item>;szpinak świeży;16;</item>
+        <item>;szpinak zasmażany;94;</item>
+        <item>;szprot wędzony;143;</item>
+        <item>;szprot, części jadalne;156;</item>
+        <item>;szynka drobiowa;120;</item>
+        <item>;szynka mielona, konserwowa;143;</item>
+        <item>;szynkowa kiełbasa;154;</item>
+        <item>;śledź marynowany;124;</item>
+        <item>;śledź w oleju, konserwa;341;</item>
+        <item>;śledź w śmietanie;200;</item>
+        <item>;śledź solony;124;</item>
+        <item>;ślimaki;99;</item>
+        <item>;śliwki suszone;265;</item>
+        <item>;śliwki świeże (160 g);102;</item>
+        <item>;śmietana 9% tłuszczu;109;</item>
+        <item>;śmietana 12% tłuszczu;136;</item>
+        <item>;śmietana 18% tłuszczu;186;</item>
+        <item>;śmietana 30% tłuszczu;290;</item>
+        <item>;tatar;128;</item>
+        <item>;tofu;72;</item>
+        <item>;tonik Schweppes (250 ml);68;</item>
+        <item>;torcik czekoladowy;401;</item>
+        <item>;torcik waflowy;580;</item>
+        <item>;tort orzechowo-śmietankowy;475;</item>
+        <item>;tran;900;</item>
+        <item>;trufle;434;</item>
+        <item>;truskawki;35;</item>
+        <item>;truskawki z bitą śmietaną;132;</item>
+        <item>;tuńczyk w oleju, konserwa;213;</item>
+        <item>;tuńczyk w sosie własnym, konserwa;131;</item>
+        <item>;wafle;457;</item>
+        <item>;warzywa suszone;321;</item>
+        <item>;wermuth słodki (5 cl);85;</item>
+        <item>;wermuth wytrawny (5 cl);60;</item>
+        <item>;węgorz wędzony;227;</item>
+        <item>;węgorz, części jadalne;281;</item>
+        <item>;whisky Bourbon (4 cl);115;</item>
+        <item>;whisky Scotch (4 cl);100;</item>
+        <item>;wieprzowa pieczeń;279;</item>
+        <item>;wieprzowa rolada;410;</item>
+        <item>;wieprzowa wątróbka smażona na oleju;244;</item>
+        <item>;wieprzowa wątróbka surowa;116;</item>
+        <item>;wieprzowe bitki;197;</item>
+        <item>;wieprzowe nerki surowe;104;</item>
+        <item>;wieprzowe nóżki, galaretka;206;</item>
+        <item>;wieprzowe serca;96;</item>
+        <item>;wieprzowe żeberka duszone z cebulą;213;</item>
+        <item>;wieprzowe żeberka surowe;242;</item>
+        <item>;wieprzowina bez kości;264;</item>
+        <item>;wieprzowina gotowana;372;</item>
+        <item>;wieprzowina w sosie własnym;229;</item>
+        <item>;wieprzowina boczek surowy;517;</item>
+        <item>;wieprzowina, golonka ze skórą;253;</item>
+        <item>;wieprzowina, karkówka;201;</item>
+        <item>;wieprzowina, łopatka chuda;182;</item>
+        <item>;wieprzowina, łopatka tłusta;255;</item>
+        <item>;wieprzowina, podgardle;577;</item>
+        <item>;wieprzowina, schab;119;</item>
+        <item>;wieprzowina, szynka chuda;177;</item>
+        <item>;wieprzowina, szynka tłusta;254;</item>
+        <item>;wieprzowina, zrazowa górna;179;</item>
+        <item>;wieprzowina, zrazowa przednia;198;</item>
+        <item>;wieprzowina, żeberka;242;</item>
+        <item>;wieprzowy mózg;134;</item>
+        <item>;wieprzowina, schab surowy;119;</item>
+        <item>;wieprzowy stek;478;</item>
+        <item>;winiak (2 cl);48;</item>
+        <item>;wino grzane z korzeniami (250 ml);190;</item>
+        <item>;winogrona;68;</item>
+        <item>;wiórki kokosowe;346;</item>
+        <item>;wiśnie w czekoladzie;446;</item>
+        <item>;wiśnie (85 g);44;</item>
+        <item>;wiśniówka (2 cl);47;</item>
+        <item>;włoszczyzna;38;</item>
+        <item>;woda mineralna;0;</item>
+        <item>;woda sodowa;0;</item>
+        <item>;wołowa pieczeń z polędwicy;170;</item>
+        <item>;wołowa polędwica;253;</item>
+        <item>;wołowa wątróbka surowa;123;</item>
+        <item>;wołowe bitki;106;</item>
+        <item>;wołowe nerki surowe;136;</item>
+        <item>;wołowe płuca;82;</item>
+        <item>;wołowina gotowana;200;</item>
+        <item>;wołowina w sosie własnym;142;</item>
+        <item>;wołowina, antrykot;156;</item>
+        <item>;wołowina, goleń;67;</item>
+        <item>;wołowina, karkówka chuda;95;</item>
+        <item>;wołowina, karkówka średniotłusta;131;</item>
+        <item>;wołowina, mostek;204;</item>
+        <item>;wołowina, polędwica;110;</item>
+        <item>;wołowina, rostbef;122;</item>
+        <item>;wołowina, rozbratel;124;</item>
+        <item>;wołowina, szponder chudy;105;</item>
+        <item>;wołowina, szponder tłusty;259;</item>
+        <item>;wołowina, zrazowa dolna;120;</item>
+        <item>;wołowina, zrazowa górna;111;</item>
+        <item>;wołowy gulasz;149;</item>
+        <item>;wołowy łój;896;</item>
+        <item>;wołowy mózg;121;</item>
+        <item>;wołowy ogon surowy;68;</item>
+        <item>;wołowy ozór surowy;178;</item>
+        <item>;wódka czysta, 1 kieliszek (40 ml);112;</item>
+        <item>;wódka (2 cl);45;</item>
+        <item>;zając tuszka;81;</item>
+        <item>;zarodki pszenne;377;</item>
+        <item>;ziemniaczane puree w proszku Uncle Bens;62;</item>
+        <item>;ziemniak (80 g);48;</item>
+        <item>;ziemniaki;60;</item>
+        <item>;ziemniaki puree;89;</item>
+        <item>;ziemniaki z wody okraszone masłem;106;</item>
+        <item>;zupa szpinakowa z ziemniakami;42;</item>
+        <item>;zupa cebulowa;46;</item>
+        <item>;zupa fasolowa;72;</item>
+        <item>;zupa grochowa;75;</item>
+        <item>;zupa grzybowa zabielana;30;</item>
+        <item>;zupa jarzynowa;33;</item>
+        <item>;zupa jarzynowa zabielana;48;</item>
+        <item>;zupa kalafiorowa;30;</item>
+        <item>;zupa krupnik;81;</item>
+        <item>;zupa ogórkowa zabielana;43;</item>
+        <item>;zupa pomidorowa z ryżem;38;</item>
+        <item>;zupa pomidorowa na koncentracie;14;</item>
+        <item>;zupa pomidorowa z makaronem;36;</item>
+        <item>;zupa pomidorowa zabielana;19;</item>
+        <item>;zupa szczawiowa;41;</item>
+        <item>;zupa-krem z zielonego groszku;64;</item>
+        <item>;żabie udka;73;</item>
+        <item>;żeberka wieprzowe duszone z cebulą;213;</item>
+        <item>;żeberka wieprzowe surowe;242;</item>
+        <item>;żeberka z rusztu po amerykańsku;260;</item>
+        <item>;żelatyna, 1 łyżka (10 g);34;</item>
+        <item>;żelki miśki, cukierki;390;</item>
+        <item>;żołądki drobiowe;100;</item>
+        <item>;żółtko z 1 jajka;70;</item>
+        <item>;żurawiny;49;</item>
+        <item>;żurek, 1 talerz (250 ml);200;</item>
+    </string-array>
 </resources>

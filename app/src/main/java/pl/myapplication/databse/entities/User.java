@@ -12,6 +12,7 @@ public class User {
     private String gender;
     private float weight;
     private int age;
+    private int height;
     private String lifestyle;
 
     public int getId() {
@@ -62,16 +63,25 @@ public class User {
         this.lifestyle = lifestyle;
     }
 
+    public int getHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+
     @Ignore
     public User() {
     }
 
-    public User(int id, String name, String gender, float weight, int age, String lifestyle) {
+    public User(int id, String name, String gender, float weight, int age, int height, String lifestyle) {
         this.id = id;
         this.name = name;
         this.gender = gender;
         this.weight = weight;
         this.age = age;
+        this.height = height;
         this.lifestyle = lifestyle;
     }
 }

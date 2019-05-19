@@ -1,7 +1,6 @@
 package pl.myapplication.application;
 
 import android.app.Application;
-
 import pl.myapplication.databse.AppDatabase;
 import pl.myapplication.databse.AppExecutors;
 

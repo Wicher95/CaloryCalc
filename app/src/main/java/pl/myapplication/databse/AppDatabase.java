@@ -2,8 +2,6 @@ package pl.myapplication.databse;
 
 import android.content.Context;
 
-import java.util.List;
-
 import androidx.annotation.NonNull;
 import androidx.annotation.VisibleForTesting;
 import androidx.lifecycle.LiveData;
@@ -11,13 +9,18 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.room.Database;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;
+import androidx.room.TypeConverters;
 import androidx.sqlite.db.SupportSQLiteDatabase;
+
 import pl.myapplication.databse.dao.ProductDAO;
 import pl.myapplication.databse.dao.UserDAO;
+import pl.myapplication.databse.dao.UserProductDAO;
 import pl.myapplication.databse.entities.Product;
 import pl.myapplication.databse.entities.User;
+import pl.myapplication.databse.entities.UserProduct;
 
-@Database(version = 1, entities = {User.class, Product.class}, exportSchema = false)
+@Database(version = 1, entities = {User.class, Product.class, UserProduct.class}, exportSchema = false)
+@TypeConverters({Converters.class})
 public abstract class AppDatabase extends RoomDatabase {
 
     @VisibleForTesting
@@ -43,6 +46,7 @@ public abstract class AppDatabase extends RoomDatabase {
                         executors.diskIO().execute(() -> {
                             // Generate the data
                             AppDatabase database = AppDatabase.getInstance(appContext, executors);
+                            database.productDao().addAllProducts(DataGenerator.generateProducts());
                             database.setDatabaseCreated();
                         });
                     }
@@ -62,4 +66,6 @@ public abstract class AppDatabase extends RoomDatabase {
     public abstract UserDAO userDAO();
 
     public abstract ProductDAO productDao();
+
+    public abstract UserProductDAO userProductDAO();
 }

@@ -1,6 +1,7 @@
 package pl.myapplication.databse.entities;
 
 import androidx.room.Entity;
+import androidx.room.Ignore;
 import androidx.room.PrimaryKey;
 
 @Entity(tableName = "products")
@@ -32,6 +33,10 @@ public class Product {
 
     public void setCalories(float calories) {
         this.calories = calories;
+    }
+
+    @Ignore
+    public Product() {
     }
 
     public Product(int id, String name, float calories) {
